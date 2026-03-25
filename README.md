@@ -99,7 +99,3 @@ The model was evaluated in the course Kaggle-style competition.
 | Notes              | Consistently in the upper-mid range; strong baseline performance demonstrating robust feature engineering and ensemble modeling. |
 
 >  Even with limited data sharing and a real-world messy dataset, the model achieved reliable predictions and meaningful rankings among the course participants.
-
-```text
-_id, price
-
