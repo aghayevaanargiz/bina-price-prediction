@@ -86,16 +86,3 @@ Multiple regression models were trained and combined using **stacking**:
 2. Predictions for test data were generated and transformed back to original price scale using exponentiation.
 3. Predictions were clipped to remove outliers (1st and 99th percentiles).
 4. Final submission file: `predictions3.csv` with columns:
-
-## Results & Standing
-
-The model was evaluated in the course Kaggle-style competition.  
-
-| Metric / Info      | Value |
-|-------------------|-------|
-| My Score           | 30,668.07 |
-| Rank               | 22 / 27 participants |
-| Total Submissions  | 33 |
-| Notes              | Consistently in the upper-mid range; strong baseline performance demonstrating robust feature engineering and ensemble modeling. |
-
->  Even with limited data sharing and a real-world messy dataset, the model achieved reliable predictions and meaningful rankings among the course participants.
